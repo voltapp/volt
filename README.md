@@ -1,1 +1,1 @@
-Official eul.im repository
+Official [eul.im](https://eul.im/) repository.
