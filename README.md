@@ -1,1 +1,1 @@
-Official [eul.im](https://eul.im/) repository.
+Official [volt.ws](https://volt.ws/) repository.
