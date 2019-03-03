@@ -1,4 +1,4 @@
-Official [volt.ws](https://volt.ws/) repository.
+Official [volt-app.com](https://volt-app.com/) repository.
 
 Right now it's only used as an issue tracker.
 
